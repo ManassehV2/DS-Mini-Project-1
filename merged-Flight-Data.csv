@@ -1,0 +1,315 @@
+DepartureTime,ArraivalTime,Price,Operator,NumberOfStops,Duration,Layovers,Source
+2023-12-20 05:20:00,2023-12-20 14:25:00,212.0,['airBaltic'],1,32700,"['4h 45m layover, Riga Intl']",kayak.com
+2023-12-20 12:25:00,2023-12-20 16:20:00,279.0,['Turkish Airlines'],0,14100,[],kayak.com
+2023-12-20 05:20:00,2023-12-20 14:25:00,208.0,['airBaltic'],1,32700,"['4h 45m layover, Riga Intl']",kayak.com
+2023-12-20 12:25:00,2023-12-20 16:20:00,304.0,['Finnair'],0,14100,[],kayak.com
+2023-12-20 06:50:00,2023-12-20 10:40:00,309.0,['Turkish Airlines'],0,13800,[],kayak.com
+2023-12-20 06:50:00,2023-12-20 10:40:00,360.0,['Finnair'],0,13800,[],kayak.com
+2023-12-20 07:45:00,2023-12-20 14:25:00,240.0,"['Finnair', 'airBaltic']",1,24000,"['2h 10m layover, Riga Intl']",kayak.com
+2023-12-20 07:30:00,2023-12-20 12:55:00,290.0,"['Finnair', 'LOT']",1,19500,"['1h 05m layover, Warsaw Frederic Chopin']",kayak.com
+2023-12-20 02:00:00,2023-12-20 09:35:00,261.0,['Lufthansa'],1,27300,"['1h 40m layover, Frankfurt am Main']",kayak.com
+2023-12-20 05:50:00,2023-12-20 11:35:00,361.0,"['Finnair', 'LOT']",1,20700,"['1h 20m layover, Warsaw Frederic Chopin']",kayak.com
+2023-12-20 04:40:00,2023-12-20 15:20:00,211.0,"['Norwegian', 'Air Serbia']",2,38400,"['3h 55m layover, Stockholm Arlanda', '1h 35m layover, Belgrade Nikola Tesla']",kayak.com
+2023-12-20 11:20:00,2023-12-20 19:20:00,266.0,"['Finnair', 'Pegasus Airlines']",1,28800,"['3h 10m layover, Berlin Brandenburg']",kayak.com
+2023-12-20 07:05:00,2023-12-20 15:50:00,252.0,"['Finnair', 'Pegasus Airlines']",1,31500,"['4h 00m layover, Berlin Brandenburg']",kayak.com
+2023-12-20 07:30:00,2023-12-20 16:30:00,290.0,"['Finnair', 'LOT']",1,32400,"['4h 35m layover, Warsaw Frederic Chopin']",kayak.com
+2023-12-20 07:05:00,2023-12-20 15:05:00,279.0,"['Finnair', 'Turkish Airlines']",1,28800,"['3h 10m layover, Berlin Brandenburg']",kayak.com
+2023-12-20 08:15:00,2023-12-20 16:25:00,298.0,"['Finnair', 'Pegasus Airlines']",1,29400,"['2h 00m layover, Amsterdam Schiphol']",kayak.com
+2023-12-20 07:40:00,2023-12-20 15:05:00,309.0,"['Finnair', 'Turkish Airlines']",1,26700,"['2h 40m layover, Vilnius']",kayak.com
+2023-12-20 06:20:00,2023-12-20 13:20:00,355.0,"['Finnair', 'Turkish Airlines']",1,25200,"['2h 00m layover, Václav Havel Prague']",kayak.com
+2023-12-20 07:50:00,2023-12-20 15:20:00,341.0,"['Finnair', 'Pegasus Airlines']",1,27000,"['2h 10m layover, Munich Franz Josef Strauss']",kayak.com
+2023-12-20 08:35:00,2023-12-20 15:55:00,345.0,"['Finnair', 'Pegasus Airlines']",1,26400,"['2h 30m layover, Stockholm Arlanda']",kayak.com
+2023-12-20 07:40:00,2023-12-20 15:55:00,305.0,"['Norwegian', 'Pegasus Airlines']",1,29700,"['3h 30m layover, Stockholm Arlanda']",kayak.com
+2023-12-20 07:45:00,2023-12-20 15:05:00,345.0,"['Finnair', 'Turkish Airlines']",1,26400,"['2h 45m layover, Riga Intl']",kayak.com
+2023-12-20 05:25:00,2023-12-20 15:20:00,253.0,"['Finnair', 'Air Serbia']",2,35700,"['3h 05m layover, Stockholm Arlanda', '1h 35m layover, Belgrade Nikola Tesla']",kayak.com
+2023-12-20 12:35:00,2023-12-20 21:35:00,316.0,"['Ryanair', 'Pegasus Airlines']",1,32400,"['2h 05m layover, London Stansted']",kayak.com
+2023-12-20 08:00:00,2023-12-20 15:30:00,377.0,"['Finnair', 'Pegasus Airlines']",1,27000,"['1h 50m layover, Zurich']",kayak.com
+2023-12-20 07:00:00,2023-12-20 17:05:00,345.0,['Lufthansa'],1,36300,"['4h 10m layover, Frankfurt am Main']",kayak.com
+2023-12-20 07:00:00,2023-12-20 15:55:00,419.0,['KLM'],1,32100,"['2h 45m layover, Amsterdam Schiphol']",kayak.com
+2023-12-20 09:40:00,2023-12-20 17:50:00,327.0,"['Finnair', 'Pegasus Airlines']",1,29400,"['3h 20m layover, Václav Havel Prague']",kayak.com
+2023-12-20 05:20:00,2023-12-20 15:05:00,369.0,['airBaltic'],1,35100,"['5h 20m layover, Riga Intl']",kayak.com
+2023-12-20 06:20:00,2023-12-20 16:30:00,265.0,"['Finnair', 'LOT']",2,36600,"['2h 10m layover, Václav Havel Prague', '1h 55m layover, Warsaw Frederic Chopin']",kayak.com
+2023-12-20 09:25:00,2023-12-20 17:05:00,387.0,"['Finnair', 'AnadoluJet']",1,27600,"['3h 00m layover, Vienna Intl']",kayak.com
+2023-12-20 07:40:00,2023-12-20 16:20:00,340.0,"['Norwegian', 'Turkish Airlines']",1,31200,"['3h 45m layover, Stockholm Arlanda']",kayak.com
+2023-12-20 07:50:00,2023-12-20 16:55:00,510.0,['British Airways'],1,32700,"['1h 45m layover, London Heathrow']",kayak.com
+2023-12-20 03:30:00,2023-12-20 11:35:00,327.0,"['airBaltic', 'LOT']",2,29100,"['2h 10m layover, Riga Intl', '0h 55m layover, Warsaw Frederic Chopin']",kayak.com
+2023-12-20 07:00:00,2023-12-20 15:45:00,375.0,"['Lufthansa', 'Pegasus Airlines']",1,31500,"['2h 45m layover, Frankfurt am Main']",kayak.com
+2023-12-20 04:25:00,2023-12-20 15:20:00,273.0,"['Scandinavian Airlines', 'Air Serbia']",2,39300,"['4h 00m layover, Stockholm Arlanda', '1h 35m layover, Belgrade Nikola Tesla']",kayak.com
+2023-12-20 11:45:00,2023-12-20 23:35:00,345.0,"['Finnair', 'LOT']",1,42600,"['7h 30m layover, Warsaw Frederic Chopin']",kayak.com
+2023-12-20 07:50:00,2023-12-20 17:25:00,328.0,"['Finnair', 'AnadoluJet']",1,34500,"['4h 15m layover, Munich Franz Josef Strauss']",kayak.com
+2023-12-20 06:30:00,2023-12-20 16:10:00,492.0,['Air France'],1,34800,"['2h 45m layover, Paris Charles de Gaulle']",kayak.com
+2023-12-20 07:40:00,2023-12-20 16:30:00,319.0,"['Norwegian', 'LOT']",2,31800,"['2h 45m layover, Stockholm Arlanda', '0h 35m layover, Warsaw Frederic Chopin']",kayak.com
+2023-12-20 07:25:00,2023-12-20 15:55:00,375.0,"['Scandinavian Airlines', 'Pegasus Airlines']",1,30600,"['3h 45m layover, Stockholm Arlanda']",kayak.com
+2023-12-20 10:15:00,2023-12-20 19:05:00,363.0,"['Scandinavian Airlines', 'Turkish Airlines']",1,31800,"['4h 00m layover, Stockholm Arlanda']",kayak.com
+2023-12-20 08:15:00,2023-12-20 18:00:00,357.0,"['Finnair', 'AnadoluJet']",1,35100,"['3h 40m layover, Amsterdam Schiphol']",kayak.com
+2023-12-20 08:00:00,2023-12-20 18:05:00,340.0,"['Finnair', 'AnadoluJet']",1,36300,"['4h 20m layover, Zurich']",kayak.com
+2023-12-20 07:25:00,2023-12-20 16:30:00,565.0,"['Scandinavian Airlines', 'LOT']",2,32700,"['3h 00m layover, Stockholm Arlanda', '0h 35m layover, Warsaw Frederic Chopin']",kayak.com
+2023-12-20 05:50:00,2023-12-20 15:20:00,332.0,"['Finnair', 'Air Serbia']",2,34200,"['1h 45m layover, Kastrup Copenhagen', '2h 10m layover, Belgrade Nikola Tesla']",kayak.com
+2023-12-20 06:20:00,2023-12-20 17:05:00,291.0,['Multiple airlines'],3,38700,"['1h 00m layover, Kastrup Copenhagen', '1h 20m layover, Vienna Intl', '1h 40m layover, Tirana Rinas']",kayak.com
+2023-12-20 10:05:00,2023-12-20 20:25:00,331.0,"['Scandinavian Airlines', 'Pegasus Airlines']",2,37200,"['1h 55m layover, Kastrup Copenhagen', '1h 40m layover, Amsterdam Schiphol']",kayak.com
+2023-12-20 06:30:00,2023-12-20 16:25:00,356.0,"['Scandinavian Airlines', 'Pegasus Airlines']",2,35700,"['0h 55m layover, Kastrup Copenhagen', '2h 10m layover, Amsterdam Schiphol']",kayak.com
+2023-12-20 02:40:00,2023-12-20 11:35:00,569.0,"['Finnair', 'LOT']",2,32100,"['3h 00m layover, Tallinn Ulemiste', '1h 10m layover, Warsaw Frederic Chopin']",kayak.com
+2023-12-20 09:30:00,2023-12-20 20:40:00,265.0,"['Finnair', 'Air Serbia']",2,40200,"['4h 20m layover, Budapest Ferenc Liszt Intl', '1h 40m layover, Belgrade Nikola Tesla']",kayak.com
+2023-12-20 11:05:00,2023-12-20 21:35:00,453.0,"['Scandinavian Airlines', 'Lufthansa']",2,37800,"['1h 30m layover, Oslo Gardermoen', '2h 00m layover, Frankfurt am Main']",kayak.com
+2023-12-20 10:05:00,2023-12-20 21:35:00,361.0,['Lufthansa'],2,41400,"['2h 30m layover, Kastrup Copenhagen', '2h 40m layover, Frankfurt am Main']",kayak.com
+2023-12-20 10:05:00,2023-12-20 21:35:00,361.0,['Lufthansa'],2,41400,"['3h 40m layover, Kastrup Copenhagen', '1h 30m layover, Frankfurt am Main']",kayak.com
+2023-12-20 02:00:00,2023-12-20 11:20:00,598.0,['British Airways'],1,33600,"['2h 00m layover, London Heathrow']",kayak.com
+2023-12-20 07:25:00,2023-12-20 18:25:00,322.0,"['Scandinavian Airlines', 'Pegasus Airlines']",2,39600,"['1h 35m layover, Stockholm Arlanda', '2h 20m layover, Geneva Geneve-Cointrin']",kayak.com
+2023-12-20 07:00:00,2023-12-20 17:05:00,473.0,['Lufthansa'],2,36300,"['1h 15m layover, Munich Franz Josef Strauss', '1h 55m layover, Frankfurt am Main']",kayak.com
+2023-12-20 06:20:00,2023-12-20 17:00:00,314.0,['Multiple airlines'],2,38400,"['2h 20m layover, Kastrup Copenhagen', '1h 55m layover, Cologne Köln/Bonn']",kayak.com
+2023-12-20 07:05:00,2023-12-20 19:20:00,225.0,"['Finnair', 'Pegasus Airlines']",1,44100,"['7h 30m layover, Berlin Brandenburg']",kayak.com
+2023-12-20 10:15:00,2023-12-20 21:35:00,407.0,['Lufthansa'],2,40800,"['3h 40m layover, Stockholm Arlanda', '1h 15m layover, Frankfurt am Main']",kayak.com
+2023-12-20 05:20:00,2023-12-20 15:45:00,320.0,"['airBaltic', 'Pegasus Airlines']",2,37500,"['1h 15m layover, Riga Intl', '2h 40m layover, Frankfurt am Main']",kayak.com
+2023-12-20 07:15:00,2023-12-20 18:25:00,292.0,['Multiple airlines'],2,40200,"['2h 00m layover, Kastrup Copenhagen', '2h 15m layover, Geneva Geneve-Cointrin']",kayak.com
+2023-12-20 03:30:00,2023-12-20 15:20:00,294.0,"['airBaltic', 'Air Serbia']",3,42600,"['1h 50m layover, Riga Intl', '1h 45m layover, Berlin Brandenburg', '2h 10m layover, Belgrade Nikola Tesla']",kayak.com
+2023-12-20 03:30:00,2023-12-20 15:20:00,294.0,"['airBaltic', 'Air Serbia']",3,42600,"['1h 00m layover, Riga Intl', '1h 35m layover, Duesseldorf Intl', '2h 20m layover, Belgrade Nikola Tesla']",kayak.com
+2023-12-20 05:50:00,2023-12-20 17:00:00,365.0,['Multiple airlines'],2,40200,"['2h 50m layover, Kastrup Copenhagen', '1h 55m layover, Cologne Köln/Bonn']",kayak.com
+2023-12-20 07:25:00,2023-12-20 17:05:00,659.0,['Lufthansa'],2,34800,"['2h 15m layover, Stockholm Arlanda', '0h 55m layover, Frankfurt am Main']",kayak.com
+2023-12-20 05:20:00,2023-12-20 16:25:00,326.0,"['airBaltic', 'Pegasus Airlines']",2,39900,"['1h 15m layover, Riga Intl', '2h 55m layover, Amsterdam Schiphol']",kayak.com
+2023-12-20 05:20:00,2023-12-20 16:30:00,299.0,"['airBaltic', 'LOT']",3,40200,"['1h 05m layover, Riga Intl', '1h 50m layover, Vilnius', '2h 35m layover, Warsaw Frederic Chopin']",kayak.com
+2023-12-20 06:30:00,2023-12-20 17:05:00,596.0,['Lufthansa'],2,38100,"['2h 50m layover, Kastrup Copenhagen', '1h 25m layover, Frankfurt am Main']",kayak.com
+2023-12-20 06:30:00,2023-12-20 17:05:00,596.0,['Lufthansa'],2,38100,"['2h 25m layover, Kastrup Copenhagen', '1h 45m layover, Frankfurt am Main']",kayak.com
+2023-12-20 07:00:00,2023-12-20 21:35:00,272.0,['Lufthansa'],1,52500,"['8h 40m layover, Frankfurt am Main']",kayak.com
+2023-12-20 05:20:00,2023-12-20 17:40:00,260.0,"['airBaltic', 'TAROM']",2,44400,"['5h 35m layover, Riga Intl', '2h 00m layover, Bucharest Otopeni Intl']",kayak.com
+2023-12-20 01:40:00,2023-12-20 11:35:00,681.0,"['Finnair', 'LOT']",2,35700,"['3h 55m layover, Tallinn Ulemiste', '1h 10m layover, Warsaw Frederic Chopin']",kayak.com
+2023-12-20 04:40:00,2023-12-20 17:00:00,347.0,['Multiple airlines'],3,44400,"['2h 05m layover, Stockholm Arlanda', '1h 30m layover, Kastrup Copenhagen', '1h 55m layover, Cologne Köln/Bonn']",kayak.com
+2023-12-20 07:00:00,2023-12-20 19:50:00,464.0,['Aegean Airlines'],2,46200,"['2h 30m layover, Frankfurt am Main', '3h 10m layover, Athens Eleftherios V.']",kayak.com
+2023-12-20 10:05:00,2023-12-20 18:25:00,918.0,['Scandinavian Airlines'],1,30000,"['3h 20m layover, Kastrup Copenhagen']",kayak.com
+2023-12-20 07:00:00,2023-12-20 19:50:00,475.0,['Aegean Airlines'],2,46200,"['3h 40m layover, Frankfurt am Main', '2h 00m layover, Athens Eleftherios V.']",kayak.com
+2023-12-20 03:30:00,2023-12-20 15:20:00,419.0,"['airBaltic', 'Air Serbia']",3,42600,"['1h 10m layover, Riga Intl', '2h 10m layover, Vienna Intl', '2h 30m layover, Belgrade Nikola Tesla']",kayak.com
+2023-12-20 06:30:00,2023-12-20 15:05:00,918.0,['Scandinavian Airlines'],1,30900,"['3h 35m layover, Kastrup Copenhagen']",kayak.com
+2023-12-20 07:00:00,2023-12-20 19:50:00,503.0,['Aegean Airlines'],2,46200,"['2h 20m layover, Munich Franz Josef Strauss', '3h 45m layover, Athens Eleftherios V.']",kayak.com
+2023-12-20 04:00:00,2023-12-20 17:05:00,330.0,['Multiple airlines'],2,47100,"['2h 25m layover, Milan Malpensa', '3h 50m layover, Tirana Rinas']",kayak.com
+2023-12-20 10:15:00,2023-12-20 19:05:00,912.0,['Scandinavian Airlines'],1,31800,"['4h 00m layover, Stockholm Arlanda']",kayak.com
+2023-12-20 10:05:00,2023-12-20 18:25:00,931.0,"['Scandinavian Airlines', 'Turkish Airlines']",1,30000,"['3h 20m layover, Kastrup Copenhagen']",kayak.com
+2023-12-20 07:25:00,2023-12-20 16:20:00,912.0,['Scandinavian Airlines'],1,32100,"['4h 00m layover, Stockholm Arlanda']",kayak.com
+2023-12-20 03:20:00,2023-12-20 17:00:00,324.0,"['Eurowings', 'Pegasus Airlines']",2,49200,"['2h 20m layover, Berlin Brandenburg', '4h 50m layover, Cologne Köln/Bonn']",kayak.com
+2023-12-20 07:25:00,2023-12-20 21:35:00,406.0,['Lufthansa'],2,51000,"['6h 25m layover, Stockholm Arlanda', '1h 15m layover, Frankfurt am Main']",kayak.com
+2023-12-20 01:30:00,2023-12-20 10:35:00,912.0,['Scandinavian Airlines'],1,32700,"['4h 15m layover, Stockholm Arlanda']",kayak.com
+2023-12-20 06:25:00,2023-12-20 20:30:00,369.0,"['Finnair', 'AnadoluJet']",1,50700,"['7h 05m layover, Tel Aviv Ben Gurion Intl']",kayak.com
+2023-12-20 06:30:00,2023-12-20 15:05:00,931.0,"['Scandinavian Airlines', 'Turkish Airlines']",1,30900,"['3h 35m layover, Kastrup Copenhagen']",kayak.com
+2023-12-20 07:25:00,2023-12-20 15:55:00,961.0,['Scandinavian Airlines'],2,30600,"['0h 35m layover, Stockholm Arlanda', '2h 15m layover, Gothenburg Landvetter']",kayak.com
+2023-12-20 06:30:00,2023-12-20 21:35:00,361.0,['Lufthansa'],2,54300,"['6h 05m layover, Kastrup Copenhagen', '2h 40m layover, Frankfurt am Main']",kayak.com
+2023-12-20 06:30:00,2023-12-20 21:35:00,373.0,['Lufthansa'],2,54300,"['7h 15m layover, Kastrup Copenhagen', '1h 30m layover, Frankfurt am Main']",kayak.com
+2023-12-20 06:30:00,2023-12-20 21:35:00,373.0,['Lufthansa'],2,54300,"['2h 25m layover, Kastrup Copenhagen', '6h 15m layover, Frankfurt am Main']",kayak.com
+2023-12-20 07:00:00,2023-12-20 21:35:00,415.0,['Lufthansa'],2,52500,"['6h 15m layover, Munich Franz Josef Strauss', '1h 25m layover, Frankfurt am Main']",kayak.com
+2023-12-20 07:00:00,2023-12-20 21:35:00,415.0,['Lufthansa'],2,52500,"['5h 15m layover, Munich Franz Josef Strauss', '2h 25m layover, Frankfurt am Main']",kayak.com
+2023-12-20 07:00:00,2023-12-20 21:35:00,415.0,['Lufthansa'],2,52500,"['1h 15m layover, Munich Franz Josef Strauss', '6h 25m layover, Frankfurt am Main']",kayak.com
+2023-12-20 07:00:00,2023-12-20 21:35:00,415.0,['Lufthansa'],2,52500,"['3h 15m layover, Munich Franz Josef Strauss', '4h 25m layover, Frankfurt am Main']",kayak.com
+2023-12-20 07:25:00,2023-12-20 21:35:00,510.0,['Lufthansa'],2,51000,"['2h 15m layover, Stockholm Arlanda', '5h 25m layover, Frankfurt am Main']",kayak.com
+2023-12-20 06:25:00,2023-12-20 21:40:00,360.0,"['Finnair', 'Pegasus Airlines']",1,54900,"['8h 15m layover, Tel Aviv Ben Gurion Intl']",kayak.com
+2023-12-20 06:30:00,2023-12-20 15:55:00,968.0,['Scandinavian Airlines'],2,33900,"['1h 00m layover, Kastrup Copenhagen', '2h 15m layover, Gothenburg Landvetter']",kayak.com
+2023-12-20 06:30:00,2023-12-20 21:35:00,464.0,['Lufthansa'],2,54300,"['2h 50m layover, Kastrup Copenhagen', '5h 55m layover, Frankfurt am Main']",kayak.com
+2023-12-20 07:50:00,2023-12-20 23:20:00,463.0,['British Airways'],1,55800,"['8h 05m layover, London Heathrow']",kayak.com
+2023-12-20 09:40:00,2023-12-20 23:35:00,569.0,"['Finnair', 'LOT']",2,50100,"['8h 00m layover, Tallinn Ulemiste', '1h 10m layover, Warsaw Frederic Chopin']",kayak.com
+2023-12-20 06:30:00,2023-12-20 16:55:00,357.0,"['Scandinavian Airlines', 'Pegasus Airlines']",2,37500,"['0h 45m layover, Kastrup Copenhagen', '3h 20m layover, Duesseldorf Intl']",kayak.com
+2023-12-20 03:30:00,2023-12-20 17:05:00,468.0,['Multiple airlines'],3,48900,"['1h 10m layover, Riga Intl', '4h 30m layover, Vienna Intl', '1h 40m layover, Tirana Rinas']",kayak.com
+2023-12-20 06:30:00,2023-12-20 16:20:00,1010.0,['Scandinavian Airlines'],2,35400,"['0h 45m layover, Kastrup Copenhagen', '2h 20m layover, Stockholm Arlanda']",kayak.com
+2023-12-20 07:25:00,2023-12-20 19:05:00,931.0,['Scandinavian Airlines'],1,42000,"['6h 45m layover, Stockholm Arlanda']",kayak.com
+2023-12-20 06:30:00,2023-12-20 18:25:00,937.0,['Scandinavian Airlines'],1,42900,"['6h 55m layover, Kastrup Copenhagen']",kayak.com
+2023-12-20 07:25:00,2023-12-20 18:25:00,969.0,['Scandinavian Airlines'],2,39600,"['1h 40m layover, Stockholm Arlanda', '3h 45m layover, Kastrup Copenhagen']",kayak.com
+2023-12-20 07:25:00,2023-12-20 18:25:00,969.0,['Scandinavian Airlines'],2,39600,"['2h 20m layover, Stockholm Arlanda', '3h 00m layover, Kastrup Copenhagen']",kayak.com
+2023-12-20 11:05:00,2023-12-20 22:35:00,960.0,['Scandinavian Airlines'],2,41400,"['1h 05m layover, Oslo Gardermoen', '4h 05m layover, Stockholm Arlanda']",kayak.com
+2023-12-20 11:05:00,2023-12-20 22:35:00,960.0,['Scandinavian Airlines'],2,41400,"['2h 10m layover, Oslo Gardermoen', '3h 00m layover, Stockholm Arlanda']",kayak.com
+2023-12-20 10:15:00,2023-12-20 22:35:00,931.0,['Scandinavian Airlines'],1,44400,"['7h 30m layover, Stockholm Arlanda']",kayak.com
+2023-12-20 10:05:00,2023-12-20 22:25:00,968.0,['Scandinavian Airlines'],2,44400,"['3h 15m layover, Kastrup Copenhagen', '2h 55m layover, Gothenburg Landvetter']",kayak.com
+2023-12-20 07:00:00,2023-12-20 17:05:00,1219.0,['Lufthansa'],2,36300,"['2h 15m layover, Munich Franz Josef Strauss', '0h 55m layover, Frankfurt am Main']",kayak.com
+2023-12-20 10:05:00,2023-12-20 18:25:00,1419.0,"['Scandinavian Airlines', 'Pakistan International Airlines']",1,30000,"['3h 20m layover, Kastrup Copenhagen']",kayak.com
+2023-12-20 10:05:00,2023-12-20 22:35:00,1013.0,['Scandinavian Airlines'],2,45000,"['2h 55m layover, Kastrup Copenhagen', '2h 50m layover, Stockholm Arlanda']",kayak.com
+2023-12-20 06:30:00,2023-12-20 19:05:00,1010.0,['Scandinavian Airlines'],2,45300,"['2h 50m layover, Kastrup Copenhagen', '3h 00m layover, Stockholm Arlanda']",kayak.com
+2023-12-20 06:30:00,2023-12-20 15:05:00,1419.0,"['Scandinavian Airlines', 'Pakistan International Airlines']",1,30900,"['3h 35m layover, Kastrup Copenhagen']",kayak.com
+2023-12-20 07:25:00,2023-12-20 22:35:00,931.0,['Scandinavian Airlines'],1,54600,"['10h 15m layover, Stockholm Arlanda']",kayak.com
+2023-12-20 07:25:00,2023-12-20 22:25:00,971.0,['Scandinavian Airlines'],2,54000,"['0h 35m layover, Stockholm Arlanda', '8h 45m layover, Gothenburg Landvetter']",kayak.com
+2023-12-20 10:15:00,2023-12-20 23:05:00,1303.0,['Scandinavian Airlines'],2,46200,"['5h 45m layover, Stockholm Arlanda', '1h 00m layover, Oslo Gardermoen']",kayak.com
+2023-12-20 10:15:00,2023-12-20 23:05:00,1303.0,['Scandinavian Airlines'],2,46200,"['1h 50m layover, Stockholm Arlanda', '4h 55m layover, Oslo Gardermoen']",kayak.com
+2023-12-20 06:30:00,2023-12-20 18:25:00,1419.0,"['Scandinavian Airlines', 'Pakistan International Airlines']",1,42900,"['6h 55m layover, Kastrup Copenhagen']",kayak.com
+2023-12-20 07:00:00,2023-12-20 21:35:00,1358.0,['Lufthansa'],2,52500,"['2h 15m layover, Munich Franz Josef Strauss', '5h 25m layover, Frankfurt am Main']",kayak.com
+2023-12-20 07:00:00,2023-12-20 16:10:00,1898.0,['KLM'],2,33000,"['0h 45m layover, Amsterdam Schiphol', '0h 45m layover, Paris Charles de Gaulle']",kayak.com
+2023-12-20 01:30:00,2023-12-20 10:15:00,2479.0,"['Scandinavian Airlines', 'Turkish Airlines']",2,31500,"['1h 35m layover, Stockholm Arlanda', '1h 30m layover, Kastrup Copenhagen']",kayak.com
+2023-12-20 11:05:00,2023-12-20 22:15:00,2475.0,"['Scandinavian Airlines', 'Turkish Airlines']",2,40200,"['1h 45m layover, Oslo Gardermoen', '3h 20m layover, Kastrup Copenhagen']",kayak.com
+2023-12-20 10:05:00,2023-12-20 22:15:00,2446.0,"['Scandinavian Airlines', 'Turkish Airlines']",1,43800,"['7h 05m layover, Kastrup Copenhagen']",kayak.com
+2023-12-20 07:25:00,2023-12-20 17:55:00,3633.0,['Multiple airlines'],2,37800,"['2h 15m layover, Stockholm Arlanda', '1h 45m layover, Frankfurt am Main']",kayak.com
+2023-12-20 05:20:00,2023-12-20 14:25:00,211.0,['airBaltic'],1,32700,"['4h 45m layover, Riga Intl']",momondo.com
+2023-12-20 12:25:00,2023-12-20 16:20:00,282.0,['Turkish Airlines'],0,14100,[],momondo.com
+2023-12-20 05:20:00,2023-12-20 14:25:00,209.0,['airBaltic'],1,32700,"['4h 45m layover, Riga Intl']",momondo.com
+2023-12-20 12:25:00,2023-12-20 16:20:00,297.0,['Finnair'],0,14100,[],momondo.com
+2023-12-20 06:50:00,2023-12-20 10:40:00,309.0,['Turkish Airlines'],0,13800,[],momondo.com
+2023-12-20 06:50:00,2023-12-20 10:40:00,360.0,['Finnair'],0,13800,[],momondo.com
+2023-12-20 02:00:00,2023-12-20 09:35:00,260.0,['Lufthansa'],1,27300,"['1h 40m layover, Frankfurt am Main']",momondo.com
+2023-12-20 07:30:00,2023-12-20 12:55:00,297.0,"['Finnair', 'LOT']",1,19500,"['1h 05m layover, Warsaw Frederic Chopin']",momondo.com
+2023-12-20 07:45:00,2023-12-20 14:25:00,240.0,"['Finnair', 'airBaltic']",1,24000,"['2h 10m layover, Riga Intl']",momondo.com
+2023-12-20 05:50:00,2023-12-20 11:35:00,361.0,"['Finnair', 'LOT']",1,20700,"['1h 20m layover, Warsaw Frederic Chopin']",momondo.com
+2023-12-20 04:40:00,2023-12-20 15:20:00,210.0,"['Norwegian', 'Air Serbia']",2,38400,"['3h 55m layover, Stockholm Arlanda', '1h 35m layover, Belgrade Nikola Tesla']",momondo.com
+2023-12-20 11:20:00,2023-12-20 19:20:00,266.0,"['Finnair', 'Pegasus Airlines']",1,28800,"['3h 10m layover, Berlin Brandenburg']",momondo.com
+2023-12-20 07:05:00,2023-12-20 15:50:00,252.0,"['Finnair', 'Pegasus Airlines']",1,31500,"['4h 00m layover, Berlin Brandenburg']",momondo.com
+2023-12-20 07:30:00,2023-12-20 16:30:00,297.0,"['Finnair', 'LOT']",1,32400,"['4h 35m layover, Warsaw Frederic Chopin']",momondo.com
+2023-12-20 07:05:00,2023-12-20 15:05:00,279.0,"['Finnair', 'Turkish Airlines']",1,28800,"['3h 10m layover, Berlin Brandenburg']",momondo.com
+2023-12-20 08:15:00,2023-12-20 16:25:00,298.0,"['Finnair', 'Pegasus Airlines']",1,29400,"['2h 00m layover, Amsterdam Schiphol']",momondo.com
+2023-12-20 07:40:00,2023-12-20 15:05:00,309.0,"['Finnair', 'Turkish Airlines']",1,26700,"['2h 40m layover, Vilnius']",momondo.com
+2023-12-20 06:20:00,2023-12-20 13:20:00,355.0,"['Finnair', 'Turkish Airlines']",1,25200,"['2h 00m layover, Václav Havel Prague']",momondo.com
+2023-12-20 07:50:00,2023-12-20 15:20:00,341.0,"['Finnair', 'Pegasus Airlines']",1,27000,"['2h 10m layover, Munich Franz Josef Strauss']",momondo.com
+2023-12-20 07:40:00,2023-12-20 15:55:00,305.0,"['Norwegian', 'Pegasus Airlines']",1,29700,"['3h 30m layover, Stockholm Arlanda']",momondo.com
+2023-12-20 08:35:00,2023-12-20 15:55:00,345.0,"['Finnair', 'Pegasus Airlines']",1,26400,"['2h 30m layover, Stockholm Arlanda']",momondo.com
+2023-12-20 07:45:00,2023-12-20 15:05:00,345.0,"['Finnair', 'Turkish Airlines']",1,26400,"['2h 45m layover, Riga Intl']",momondo.com
+2023-12-20 05:25:00,2023-12-20 15:20:00,253.0,"['Finnair', 'Air Serbia']",2,35700,"['3h 05m layover, Stockholm Arlanda', '1h 35m layover, Belgrade Nikola Tesla']",momondo.com
+2023-12-20 12:35:00,2023-12-20 21:35:00,316.0,"['Ryanair', 'Pegasus Airlines']",1,32400,"['2h 05m layover, London Stansted']",momondo.com
+2023-12-20 10:05:00,2023-12-20 21:35:00,360.0,['Lufthansa'],2,41400,"['3h 40m layover, Kastrup Copenhagen', '1h 30m layover, Frankfurt am Main']",momondo.com
+2023-12-20 08:00:00,2023-12-20 15:30:00,377.0,"['Finnair', 'Pegasus Airlines']",1,27000,"['1h 50m layover, Zurich']",momondo.com
+2023-12-20 09:40:00,2023-12-20 17:50:00,327.0,"['Finnair', 'Pegasus Airlines']",1,29400,"['3h 20m layover, Václav Havel Prague']",momondo.com
+2023-12-20 07:00:00,2023-12-20 17:05:00,344.0,['Lufthansa'],1,36300,"['4h 10m layover, Frankfurt am Main']",momondo.com
+2023-12-20 11:05:00,2023-12-20 18:20:00,421.0,"['Scandinavian Airlines', 'Pegasus Airlines']",1,26100,"['1h 45m layover, Oslo Gardermoen']",momondo.com
+2023-12-20 07:00:00,2023-12-20 15:55:00,419.0,['KLM'],1,32100,"['2h 45m layover, Amsterdam Schiphol']",momondo.com
+2023-12-20 03:20:00,2023-12-20 10:55:00,387.0,"['Eurowings', 'Turkish Airlines']",1,27300,"['2h 30m layover, Berlin Brandenburg']",momondo.com
+2023-12-20 05:20:00,2023-12-20 15:05:00,367.0,['airBaltic'],1,35100,"['5h 20m layover, Riga Intl']",momondo.com
+2023-12-20 06:20:00,2023-12-20 16:30:00,265.0,"['Finnair', 'LOT']",2,36600,"['2h 10m layover, Václav Havel Prague', '1h 55m layover, Warsaw Frederic Chopin']",momondo.com
+2023-12-20 07:40:00,2023-12-20 16:20:00,340.0,"['Norwegian', 'Turkish Airlines']",1,31200,"['3h 45m layover, Stockholm Arlanda']",momondo.com
+2023-12-20 09:25:00,2023-12-20 17:05:00,387.0,"['Finnair', 'AnadoluJet']",1,27600,"['3h 00m layover, Vienna Intl']",momondo.com
+2023-12-20 03:30:00,2023-12-20 11:35:00,327.0,"['airBaltic', 'LOT']",2,29100,"['2h 10m layover, Riga Intl', '0h 55m layover, Warsaw Frederic Chopin']",momondo.com
+2023-12-20 07:50:00,2023-12-20 16:55:00,511.0,['British Airways'],1,32700,"['1h 45m layover, London Heathrow']",momondo.com
+2023-12-20 01:55:00,2023-12-20 09:50:00,456.0,"['KLM', 'AnadoluJet']",1,28500,"['1h 55m layover, Amsterdam Schiphol']",momondo.com
+2023-12-20 11:45:00,2023-12-20 23:35:00,352.0,"['Finnair', 'LOT']",1,42600,"['7h 30m layover, Warsaw Frederic Chopin']",momondo.com
+2023-12-20 04:25:00,2023-12-20 15:20:00,273.0,"['Scandinavian Airlines', 'Air Serbia']",2,39300,"['4h 00m layover, Stockholm Arlanda', '1h 35m layover, Belgrade Nikola Tesla']",momondo.com
+2023-12-20 07:50:00,2023-12-20 17:25:00,328.0,"['Finnair', 'AnadoluJet']",1,34500,"['4h 15m layover, Munich Franz Josef Strauss']",momondo.com
+2023-12-20 07:40:00,2023-12-20 16:30:00,319.0,"['Norwegian', 'LOT']",2,31800,"['2h 45m layover, Stockholm Arlanda', '0h 35m layover, Warsaw Frederic Chopin']",momondo.com
+2023-12-20 09:30:00,2023-12-20 20:40:00,265.0,"['Finnair', 'Air Serbia']",2,40200,"['4h 20m layover, Budapest Ferenc Liszt Intl', '1h 40m layover, Belgrade Nikola Tesla']",momondo.com
+2023-12-20 08:15:00,2023-12-20 18:00:00,357.0,"['Finnair', 'AnadoluJet']",1,35100,"['3h 40m layover, Amsterdam Schiphol']",momondo.com
+2023-12-20 08:00:00,2023-12-20 18:05:00,340.0,"['Finnair', 'AnadoluJet']",1,36300,"['4h 20m layover, Zurich']",momondo.com
+2023-12-20 05:50:00,2023-12-20 15:20:00,332.0,"['Finnair', 'Air Serbia']",2,34200,"['1h 45m layover, Kastrup Copenhagen', '2h 10m layover, Belgrade Nikola Tesla']",momondo.com
+2023-12-20 06:20:00,2023-12-20 17:05:00,291.0,['Multiple airlines'],3,38700,"['1h 00m layover, Kastrup Copenhagen', '1h 20m layover, Vienna Intl', '1h 40m layover, Tirana Rinas']",momondo.com
+2023-12-20 10:05:00,2023-12-20 20:25:00,331.0,"['Scandinavian Airlines', 'Pegasus Airlines']",2,37200,"['1h 55m layover, Kastrup Copenhagen', '1h 40m layover, Amsterdam Schiphol']",momondo.com
+2023-12-20 06:30:00,2023-12-20 16:25:00,356.0,"['Scandinavian Airlines', 'Pegasus Airlines']",2,35700,"['0h 55m layover, Kastrup Copenhagen', '2h 10m layover, Amsterdam Schiphol']",momondo.com
+2023-12-20 10:05:00,2023-12-20 21:35:00,360.0,['Lufthansa'],2,41400,"['2h 30m layover, Kastrup Copenhagen', '2h 40m layover, Frankfurt am Main']",momondo.com
+2023-12-20 07:05:00,2023-12-20 19:20:00,225.0,"['Finnair', 'Pegasus Airlines']",1,44100,"['7h 30m layover, Berlin Brandenburg']",momondo.com
+2023-12-20 06:30:00,2023-12-20 16:10:00,492.0,['Air France'],1,34800,"['2h 45m layover, Paris Charles de Gaulle']",momondo.com
+2023-12-20 11:05:00,2023-12-20 21:35:00,453.0,"['Scandinavian Airlines', 'Lufthansa']",2,37800,"['1h 30m layover, Oslo Gardermoen', '2h 00m layover, Frankfurt am Main']",momondo.com
+2023-12-20 06:20:00,2023-12-20 17:00:00,314.0,['Multiple airlines'],2,38400,"['2h 20m layover, Kastrup Copenhagen', '1h 55m layover, Cologne Köln/Bonn']",momondo.com
+2023-12-20 06:30:00,2023-12-20 16:55:00,357.0,"['Scandinavian Airlines', 'Pegasus Airlines']",2,37500,"['0h 45m layover, Kastrup Copenhagen', '3h 20m layover, Duesseldorf Intl']",momondo.com
+2023-12-20 10:05:00,2023-12-20 21:35:00,390.0,"['Scandinavian Airlines', 'Lufthansa']",2,41400,"['2h 30m layover, Kastrup Copenhagen', '2h 40m layover, Frankfurt am Main']",momondo.com
+2023-12-20 07:25:00,2023-12-20 18:25:00,322.0,"['Scandinavian Airlines', 'Pegasus Airlines']",2,39600,"['1h 35m layover, Stockholm Arlanda', '2h 20m layover, Geneva Geneve-Cointrin']",momondo.com
+2023-12-20 04:25:00,2023-12-20 15:20:00,318.0,"['Scandinavian Airlines', 'Air Serbia']",3,39300,"['0h 35m layover, Stockholm Arlanda', '1h 55m layover, Kastrup Copenhagen', '2h 10m layover, Belgrade Nikola Tesla']",momondo.com
+2023-12-20 10:15:00,2023-12-20 21:35:00,408.0,['Lufthansa'],2,40800,"['3h 40m layover, Stockholm Arlanda', '1h 15m layover, Frankfurt am Main']",momondo.com
+2023-12-20 07:00:00,2023-12-20 17:05:00,473.0,['Lufthansa'],2,36300,"['1h 15m layover, Munich Franz Josef Strauss', '1h 55m layover, Frankfurt am Main']",momondo.com
+2023-12-20 07:15:00,2023-12-20 18:25:00,292.0,['Multiple airlines'],2,40200,"['2h 00m layover, Kastrup Copenhagen', '2h 15m layover, Geneva Geneve-Cointrin']",momondo.com
+2023-12-20 05:20:00,2023-12-20 15:45:00,320.0,"['airBaltic', 'Pegasus Airlines']",2,37500,"['1h 15m layover, Riga Intl', '2h 40m layover, Frankfurt am Main']",momondo.com
+2023-12-20 02:00:00,2023-12-20 11:20:00,599.0,['British Airways'],1,33600,"['2h 00m layover, London Heathrow']",momondo.com
+2023-12-20 03:30:00,2023-12-20 15:20:00,289.0,"['airBaltic', 'Air Serbia']",3,42600,"['1h 00m layover, Riga Intl', '1h 35m layover, Duesseldorf Intl', '2h 20m layover, Belgrade Nikola Tesla']",momondo.com
+2023-12-20 03:30:00,2023-12-20 15:20:00,292.0,"['airBaltic', 'Air Serbia']",3,42600,"['1h 10m layover, Riga Intl', '2h 10m layover, Vienna Intl', '2h 30m layover, Belgrade Nikola Tesla']",momondo.com
+2023-12-20 05:20:00,2023-12-20 16:25:00,326.0,"['airBaltic', 'Pegasus Airlines']",2,39900,"['1h 15m layover, Riga Intl', '2h 55m layover, Amsterdam Schiphol']",momondo.com
+2023-12-20 05:20:00,2023-12-20 16:30:00,299.0,"['airBaltic', 'LOT']",3,40200,"['1h 05m layover, Riga Intl', '1h 50m layover, Vilnius', '2h 35m layover, Warsaw Frederic Chopin']",momondo.com
+2023-12-20 05:50:00,2023-12-20 17:00:00,365.0,['Multiple airlines'],2,40200,"['2h 50m layover, Kastrup Copenhagen', '1h 55m layover, Cologne Köln/Bonn']",momondo.com
+2023-12-20 05:05:00,2023-12-20 17:05:00,317.0,['Multiple airlines'],2,43200,"['1h 25m layover, Barcelona-El Prat', '2h 15m layover, Tirana Rinas']",momondo.com
+2023-12-20 05:20:00,2023-12-20 17:40:00,260.0,"['airBaltic', 'TAROM']",2,44400,"['5h 35m layover, Riga Intl', '2h 00m layover, Bucharest Otopeni Intl']",momondo.com
+2023-12-20 07:00:00,2023-12-20 21:35:00,272.0,['Lufthansa'],1,52500,"['8h 40m layover, Frankfurt am Main']",momondo.com
+2023-12-20 04:40:00,2023-12-20 17:00:00,340.0,['Multiple airlines'],3,44400,"['2h 05m layover, Stockholm Arlanda', '1h 30m layover, Kastrup Copenhagen', '1h 55m layover, Cologne Köln/Bonn']",momondo.com
+2023-12-20 07:25:00,2023-12-20 17:05:00,659.0,['Lufthansa'],2,34800,"['2h 15m layover, Stockholm Arlanda', '0h 55m layover, Frankfurt am Main']",momondo.com
+2023-12-20 06:30:00,2023-12-20 17:05:00,597.0,['Lufthansa'],2,38100,"['2h 25m layover, Kastrup Copenhagen', '1h 45m layover, Frankfurt am Main']",momondo.com
+2023-12-20 06:30:00,2023-12-20 17:05:00,597.0,['Lufthansa'],2,38100,"['2h 50m layover, Kastrup Copenhagen', '1h 25m layover, Frankfurt am Main']",momondo.com
+2023-12-20 01:40:00,2023-12-20 11:35:00,679.0,"['Finnair', 'LOT']",2,35700,"['3h 55m layover, Tallinn Ulemiste', '1h 10m layover, Warsaw Frederic Chopin']",momondo.com
+2023-12-20 07:00:00,2023-12-20 19:50:00,464.0,['Aegean Airlines'],2,46200,"['2h 30m layover, Frankfurt am Main', '3h 10m layover, Athens Eleftherios V.']",momondo.com
+2023-12-20 07:00:00,2023-12-20 19:50:00,477.0,['Aegean Airlines'],2,46200,"['3h 40m layover, Frankfurt am Main', '2h 00m layover, Athens Eleftherios V.']",momondo.com
+2023-12-20 04:00:00,2023-12-20 17:05:00,330.0,['Multiple airlines'],2,47100,"['2h 25m layover, Milan Malpensa', '3h 50m layover, Tirana Rinas']",momondo.com
+2023-12-20 03:20:00,2023-12-20 17:00:00,324.0,"['Eurowings', 'Pegasus Airlines']",2,49200,"['2h 20m layover, Berlin Brandenburg', '4h 50m layover, Cologne Köln/Bonn']",momondo.com
+2023-12-20 07:00:00,2023-12-20 19:50:00,502.0,['Aegean Airlines'],2,46200,"['2h 20m layover, Munich Franz Josef Strauss', '3h 45m layover, Athens Eleftherios V.']",momondo.com
+2023-12-20 07:25:00,2023-12-20 21:35:00,408.0,['Lufthansa'],2,51000,"['6h 25m layover, Stockholm Arlanda', '1h 15m layover, Frankfurt am Main']",momondo.com
+2023-12-20 06:30:00,2023-12-20 21:35:00,361.0,['Lufthansa'],2,54300,"['6h 05m layover, Kastrup Copenhagen', '2h 40m layover, Frankfurt am Main']",momondo.com
+2023-12-20 06:30:00,2023-12-20 21:35:00,373.0,['Lufthansa'],2,54300,"['2h 25m layover, Kastrup Copenhagen', '6h 15m layover, Frankfurt am Main']",momondo.com
+2023-12-20 06:30:00,2023-12-20 21:35:00,373.0,['Lufthansa'],2,54300,"['7h 15m layover, Kastrup Copenhagen', '1h 30m layover, Frankfurt am Main']",momondo.com
+2023-12-20 10:05:00,2023-12-20 18:25:00,913.0,['Scandinavian Airlines'],1,30000,"['3h 20m layover, Kastrup Copenhagen']",momondo.com
+2023-12-20 07:00:00,2023-12-20 21:35:00,416.0,['Lufthansa'],2,52500,"['1h 15m layover, Munich Franz Josef Strauss', '6h 25m layover, Frankfurt am Main']",momondo.com
+2023-12-20 07:00:00,2023-12-20 21:35:00,416.0,['Lufthansa'],2,52500,"['5h 15m layover, Munich Franz Josef Strauss', '2h 25m layover, Frankfurt am Main']",momondo.com
+2023-12-20 07:00:00,2023-12-20 21:35:00,416.0,['Lufthansa'],2,52500,"['3h 15m layover, Munich Franz Josef Strauss', '4h 25m layover, Frankfurt am Main']",momondo.com
+2023-12-20 07:00:00,2023-12-20 21:35:00,416.0,['Lufthansa'],2,52500,"['6h 15m layover, Munich Franz Josef Strauss', '1h 25m layover, Frankfurt am Main']",momondo.com
+2023-12-20 06:25:00,2023-12-20 21:40:00,360.0,"['Finnair', 'Pegasus Airlines']",1,54900,"['8h 15m layover, Tel Aviv Ben Gurion Intl']",momondo.com
+2023-12-20 06:30:00,2023-12-20 15:05:00,913.0,['Scandinavian Airlines'],1,30900,"['3h 35m layover, Kastrup Copenhagen']",momondo.com
+2023-12-20 10:15:00,2023-12-20 19:05:00,907.0,['Scandinavian Airlines'],1,31800,"['4h 00m layover, Stockholm Arlanda']",momondo.com
+2023-12-20 07:25:00,2023-12-20 16:20:00,907.0,['Scandinavian Airlines'],1,32100,"['4h 00m layover, Stockholm Arlanda']",momondo.com
+2023-12-20 01:30:00,2023-12-20 10:35:00,907.0,['Scandinavian Airlines'],1,32700,"['4h 15m layover, Stockholm Arlanda']",momondo.com
+2023-12-20 07:25:00,2023-12-20 21:35:00,511.0,['Lufthansa'],2,51000,"['2h 15m layover, Stockholm Arlanda', '5h 25m layover, Frankfurt am Main']",momondo.com
+2023-12-20 06:30:00,2023-12-20 21:35:00,465.0,['Lufthansa'],2,54300,"['2h 50m layover, Kastrup Copenhagen', '5h 55m layover, Frankfurt am Main']",momondo.com
+2023-12-20 07:50:00,2023-12-20 23:20:00,464.0,['British Airways'],1,55800,"['8h 05m layover, London Heathrow']",momondo.com
+2023-12-20 07:25:00,2023-12-20 15:55:00,961.0,['Scandinavian Airlines'],2,30600,"['0h 35m layover, Stockholm Arlanda', '2h 15m layover, Gothenburg Landvetter']",momondo.com
+2023-12-20 05:05:00,2023-12-20 20:30:00,357.0,['Multiple airlines'],2,55500,"['5h 00m layover, Airport change WMI-WAW', '2h 25m layover, Tel Aviv Ben Gurion Intl']",momondo.com
+2023-12-20 03:30:00,2023-12-20 17:05:00,468.0,['Multiple airlines'],3,48900,"['1h 10m layover, Riga Intl', '4h 30m layover, Vienna Intl', '1h 40m layover, Tirana Rinas']",momondo.com
+2023-12-20 06:30:00,2023-12-20 15:55:00,968.0,['Scandinavian Airlines'],2,33900,"['1h 00m layover, Kastrup Copenhagen', '2h 15m layover, Gothenburg Landvetter']",momondo.com
+2023-12-20 11:50:00,2023-12-21 03:05:00,378.0,['Multiple airlines'],2,54900,"['5h 05m layover, Tallinn Ulemiste', '5h 20m layover, Riga Intl']",momondo.com
+2023-12-20 05:25:00,2023-12-20 18:50:00,627.0,['Multiple airlines'],3,48300,"['1h 30m layover, Berlin Brandenburg', '1h 15m layover, Munich Franz Josef Strauss', '3h 15m layover, Cologne Köln/Bonn']",momondo.com
+2023-12-20 06:30:00,2023-12-20 16:20:00,1010.0,['Scandinavian Airlines'],2,35400,"['0h 45m layover, Kastrup Copenhagen', '2h 20m layover, Stockholm Arlanda']",momondo.com
+2023-12-20 07:25:00,2023-12-20 19:05:00,931.0,['Scandinavian Airlines'],1,42000,"['6h 45m layover, Stockholm Arlanda']",momondo.com
+2023-12-20 06:30:00,2023-12-20 18:25:00,937.0,['Scandinavian Airlines'],1,42900,"['6h 55m layover, Kastrup Copenhagen']",momondo.com
+2023-12-20 11:05:00,2023-12-20 22:35:00,960.0,['Scandinavian Airlines'],2,41400,"['1h 05m layover, Oslo Gardermoen', '4h 05m layover, Stockholm Arlanda']",momondo.com
+2023-12-20 11:05:00,2023-12-20 22:35:00,960.0,['Scandinavian Airlines'],2,41400,"['2h 10m layover, Oslo Gardermoen', '3h 00m layover, Stockholm Arlanda']",momondo.com
+2023-12-20 07:25:00,2023-12-20 18:25:00,969.0,['Scandinavian Airlines'],2,39600,"['2h 20m layover, Stockholm Arlanda', '3h 00m layover, Kastrup Copenhagen']",momondo.com
+2023-12-20 07:25:00,2023-12-20 18:25:00,969.0,['Scandinavian Airlines'],2,39600,"['1h 40m layover, Stockholm Arlanda', '3h 45m layover, Kastrup Copenhagen']",momondo.com
+2023-12-20 10:15:00,2023-12-20 22:35:00,931.0,['Scandinavian Airlines'],1,44400,"['7h 30m layover, Stockholm Arlanda']",momondo.com
+2023-12-20 10:05:00,2023-12-20 22:25:00,968.0,['Scandinavian Airlines'],2,44400,"['3h 15m layover, Kastrup Copenhagen', '2h 55m layover, Gothenburg Landvetter']",momondo.com
+2023-12-20 10:05:00,2023-12-20 22:35:00,1013.0,['Scandinavian Airlines'],2,45000,"['2h 55m layover, Kastrup Copenhagen', '2h 50m layover, Stockholm Arlanda']",momondo.com
+2023-12-20 06:30:00,2023-12-20 19:05:00,1010.0,['Scandinavian Airlines'],2,45300,"['2h 50m layover, Kastrup Copenhagen', '3h 00m layover, Stockholm Arlanda']",momondo.com
+2023-12-20 06:30:00,2023-12-20 19:05:00,1022.0,['Scandinavian Airlines'],2,45300,"['1h 50m layover, Kastrup Copenhagen', '4h 00m layover, Stockholm Arlanda']",momondo.com
+2023-12-20 07:00:00,2023-12-20 17:05:00,1219.0,['Lufthansa'],2,36300,"['2h 15m layover, Munich Franz Josef Strauss', '0h 55m layover, Frankfurt am Main']",momondo.com
+2023-12-20 06:30:00,2023-12-20 19:05:00,1022.0,['Scandinavian Airlines'],2,45300,"['0h 45m layover, Kastrup Copenhagen', '5h 05m layover, Stockholm Arlanda']",momondo.com
+2023-12-20 01:30:00,2023-12-20 11:05:00,1304.0,['Scandinavian Airlines'],2,34500,"['2h 30m layover, Stockholm Arlanda', '1h 00m layover, Oslo Gardermoen']",momondo.com
+2023-12-20 01:30:00,2023-12-20 11:05:00,1304.0,['Scandinavian Airlines'],2,34500,"['0h 50m layover, Stockholm Arlanda', '2h 40m layover, Oslo Gardermoen']",momondo.com
+2023-12-20 10:05:00,2023-12-20 18:25:00,1423.0,"['Scandinavian Airlines', 'Pakistan International Airlines']",1,30000,"['3h 20m layover, Kastrup Copenhagen']",momondo.com
+2023-12-20 07:25:00,2023-12-20 22:35:00,931.0,['Scandinavian Airlines'],1,54600,"['10h 15m layover, Stockholm Arlanda']",momondo.com
+2023-12-20 06:30:00,2023-12-20 15:05:00,1423.0,"['Scandinavian Airlines', 'Pakistan International Airlines']",1,30900,"['3h 35m layover, Kastrup Copenhagen']",momondo.com
+2023-12-20 07:25:00,2023-12-20 22:25:00,972.0,['Scandinavian Airlines'],2,54000,"['0h 35m layover, Stockholm Arlanda', '8h 45m layover, Gothenburg Landvetter']",momondo.com
+2023-12-20 10:15:00,2023-12-20 23:05:00,1303.0,['Scandinavian Airlines'],2,46200,"['1h 50m layover, Stockholm Arlanda', '4h 55m layover, Oslo Gardermoen']",momondo.com
+2023-12-20 10:15:00,2023-12-20 23:05:00,1303.0,['Scandinavian Airlines'],2,46200,"['5h 45m layover, Stockholm Arlanda', '1h 00m layover, Oslo Gardermoen']",momondo.com
+2023-12-20 10:15:00,2023-12-20 23:05:00,1304.0,['Scandinavian Airlines'],2,46200,"['4h 05m layover, Stockholm Arlanda', '2h 40m layover, Oslo Gardermoen']",momondo.com
+2023-12-20 06:30:00,2023-12-20 18:25:00,1423.0,"['Scandinavian Airlines', 'Pakistan International Airlines']",1,42900,"['6h 55m layover, Kastrup Copenhagen']",momondo.com
+2023-12-20 07:00:00,2023-12-20 21:35:00,1358.0,['Lufthansa'],2,52500,"['2h 15m layover, Munich Franz Josef Strauss', '5h 25m layover, Frankfurt am Main']",momondo.com
+2023-12-20 07:00:00,2023-12-20 16:10:00,1898.0,['KLM'],2,33000,"['0h 45m layover, Amsterdam Schiphol', '0h 45m layover, Paris Charles de Gaulle']",momondo.com
+2023-12-20 01:30:00,2023-12-20 10:15:00,2479.0,"['Scandinavian Airlines', 'Turkish Airlines']",2,31500,"['1h 35m layover, Stockholm Arlanda', '1h 30m layover, Kastrup Copenhagen']",momondo.com
+2023-12-20 11:05:00,2023-12-20 22:15:00,2475.0,"['Scandinavian Airlines', 'Turkish Airlines']",2,40200,"['1h 45m layover, Oslo Gardermoen', '3h 20m layover, Kastrup Copenhagen']",momondo.com
+2023-12-20 10:05:00,2023-12-20 22:15:00,2446.0,"['Scandinavian Airlines', 'Turkish Airlines']",1,43800,"['7h 05m layover, Kastrup Copenhagen']",momondo.com
+2023-12-20 07:25:00,2023-12-20 17:55:00,3633.0,['Multiple airlines'],2,37800,"['2h 15m layover, Stockholm Arlanda', '1h 45m layover, Frankfurt am Main']",momondo.com
+2023-12-20 05:20:00,2023-12-20 14:25:00,243.83,['Air Baltic'],1,32700,['4h 45m in Riga (RIX)'],orbitz.com
+2023-12-20 02:00:00,2023-12-20 09:35:00,271.53,['Lufthansa'],1,27300,['1h 40m in Frankfurt (FRA)'],orbitz.com
+2023-12-20 07:00:00,2023-12-20 21:35:00,271.53,['Lufthansa'],1,52500,['8h 40m in Frankfurt (FRA)'],orbitz.com
+2023-12-20 07:30:00,2023-12-20 12:55:00,289.1,"['Multiple airlines', 'Finnair 1141 operated by Nordic Reg For Finnair']",1,19500,['1h 5m in Warsaw (WAW)'],orbitz.com
+2023-12-20 07:30:00,2023-12-20 16:30:00,289.1,"['Multiple airlines', 'Finnair 1141 operated by Nordic Reg For Finnair']",1,32400,['4h 35m in Warsaw (WAW)'],orbitz.com
+2023-12-20 12:25:00,2023-12-20 16:20:00,297.86,['Turkish Airlines'],0,14100,[],orbitz.com
+2023-12-20 12:25:00,2023-12-20 16:20:00,307.82,"['Finnair', 'Finnair 3301 operated by Turkish Airlines']",0,14100,[],orbitz.com
+2023-12-20 11:45:00,2023-12-20 23:35:00,344.1,"['Multiple airlines', 'Finnair 1143 operated by Nordic Reg For Finnair']",1,42600,['7h 30m in Warsaw (WAW)'],orbitz.com
+2023-12-20 09:20:00,2023-12-21 03:05:00,354.0,"['Air Baltic', 'Air Baltic 7440 operated by Turkish Airlines']",1,63900,['13h 20m in Riga (RIX)'],orbitz.com
+2023-12-20 09:20:00,2023-12-21 10:15:00,354.0,"['Air Baltic', 'Air Baltic 7442 operated by Turkish Airlines']",1,89700,['20h 30m in Riga (RIX)'],orbitz.com
+2023-12-20 07:00:00,2023-12-20 17:05:00,356.39,['Lufthansa'],1,36300,['4h 10m in Frankfurt (FRA)'],orbitz.com
+2023-12-20 06:50:00,2023-12-20 10:40:00,366.86,['Turkish Airlines'],0,13800,[],orbitz.com
+2023-12-20 06:50:00,2023-12-20 10:40:00,370.82,"['Finnair', 'Finnair 3303 operated by Turkish Airlines']",0,13800,[],orbitz.com
+2023-12-20 05:50:00,2023-12-20 11:35:00,372.1,"['Multiple airlines', 'Finnair 1145 operated by Nordic Reg For Finnair']",1,20700,['1h 20m in Warsaw (WAW)'],orbitz.com
+2023-12-20 06:30:00,2023-12-20 16:30:00,383.25,['Multiple airlines'],2,36000,"['3h 10m in Copenhagen (CPH)', '1h in Warsaw (WAW)']",orbitz.com
+2023-12-20 06:30:00,2023-12-20 23:35:00,424.56,['Multiple airlines'],2,61500,"['3h 10m in Copenhagen (CPH)', '8h 5m in Warsaw (WAW)']",orbitz.com
+2023-12-20 06:20:00,2023-12-21 04:30:00,424.56,['Multiple airlines'],2,79800,"['45m in Copenhagen (CPH)', '15h 35m in Warsaw (WAW)']",orbitz.com
+2023-12-20 05:40:00,2023-12-21 04:05:00,448.92,['Air France'],1,80700,['15h 35m in Paris (CDG)'],orbitz.com
+2023-12-20 07:50:00,2023-12-21 13:00:00,449.9,"['British Airways', 'British Airways 6031 operated by Finnair']",1,105000,['21h 50m in London (LHR)'],orbitz.com
+2023-12-20 07:50:00,2023-12-20 23:20:00,462.9,"['British Airways', 'British Airways 6031 operated by Finnair']",1,55800,['8h 5m in London (LHR)'],orbitz.com
+2023-12-20 07:25:00,2023-12-20 23:35:00,464.32,"['Multiple airlines', 'Scandinavian Airlines 701 operated by Regional Jet']",2,58200,"['3h in Stockholm (ARN)', '7h 40m in Warsaw (WAW)']",orbitz.com
+2023-12-20 04:25:00,2023-12-21 04:30:00,464.32,"['Multiple airlines', 'Scandinavian Airlines 721 operated by Regional Jet']",2,86700,"['2h 55m in Stockholm (ARN)', '15h 40m in Warsaw (WAW)']",orbitz.com
+2023-12-20 07:00:00,2023-12-20 15:55:00,483.13,['KLM'],1,32100,['2h 45m in Amsterdam (AMS)'],orbitz.com
+2023-12-20 05:40:00,2023-12-21 05:15:00,509.01,['Lufthansa'],1,84900,['17h 40m in Frankfurt (FRA)'],orbitz.com
+2023-12-20 07:50:00,2023-12-20 16:55:00,509.9,"['British Airways', 'British Airways 6031 operated by Finnair']",1,32700,['1h 45m in London (LHR)'],orbitz.com
+2023-12-20 03:45:00,2023-12-20 07:25:00,166.82,['Pegasus Airlines'],0,13200,[],orbitz.com
+2023-12-20 12:55:00,2023-12-20 16:45:00,388.86,['Turkish Airlines'],0,13800,[],orbitz.com
+2023-12-20 12:55:00,2023-12-20 16:45:00,411.82,"['Finnair', 'Finnair 3301 operated by Turkish Airlines']",0,13800,[],orbitz.com
+2023-12-20 02:15:00,2023-12-20 11:35:00,429.35,"['Multiple airlines', 'Finnair 1019 operated by Nordic Reg For Finnair']",2,33600,"['3h 40m in Tallinn (TLL)', '45m in Warsaw (WAW)']",orbitz.com
+2023-12-20 12:00:00,2023-12-20 23:35:00,429.35,"['Multiple airlines', 'Finnair 1015 operated by Nordic Reg For Finnair']",2,41700,"['6h in Tallinn (TLL)', '45m in Warsaw (WAW)']",orbitz.com
+2023-12-20 07:00:00,2023-12-20 16:45:00,470.56,"['Multiple airlines', 'Scandinavian Airlines 1705 operated by Jettime A/S']",2,35100,"['3h 15m in Copenhagen (CPH)', '40m in Warsaw (WAW)']",orbitz.com
+2023-12-20 07:00:00,2023-12-20 23:35:00,470.56,"['Multiple airlines', 'Scandinavian Airlines 1705 operated by Jettime A/S']",2,59700,"['3h 15m in Copenhagen (CPH)', '7h 35m in Warsaw (WAW)']",orbitz.com
+2023-12-20 12:00:00,2023-12-20 23:35:00,486.35,"['Multiple airlines', 'Finnair 1015 operated by Nordic Reg For Finnair']",2,41700,"['2h in Tallinn (TLL)', '4h 45m in Warsaw (WAW)']",orbitz.com
+2023-12-20 06:10:00,2023-12-21 09:15:00,509.01,['Lufthansa'],1,97500,['21h 35m in Frankfurt (FRA)'],orbitz.com
+2023-12-20 02:05:00,2023-12-20 11:50:00,517.9,"['British Airways', 'British Airways 6079 operated by Finnair']",1,35100,['2h 35m in London (LHR)'],orbitz.com
+2023-12-20 12:45:00,2023-12-20 23:35:00,532.61,"['Multiple airlines', 'Finnair 1073 operated by Nordic Reg For Finnair']",2,39000,"['4h 35m in Riga (RIX)', '1h 5m in Warsaw (WAW)']",orbitz.com
+2023-12-20 07:40:00,2023-12-21 12:20:00,555.9,"['British Airways', 'British Airways 6035 operated by Finnair']",1,103200,['21h 35m in London (LHR)'],orbitz.com
+2023-12-20 06:10:00,2023-12-21 01:05:00,611.01,['Lufthansa'],1,68100,['13h 20m in Frankfurt (FRA)'],orbitz.com
+2023-12-20 06:10:00,2023-12-21 05:00:00,611.01,['Lufthansa'],1,82200,['17h 20m in Frankfurt (FRA)'],orbitz.com
+2023-12-20 01:40:00,2023-12-21 01:05:00,611.01,['Lufthansa'],1,84300,['17h 50m in Frankfurt (FRA)'],orbitz.com
+2023-12-20 01:40:00,2023-12-21 05:00:00,611.01,['Lufthansa'],1,98400,['21h 50m in Frankfurt (FRA)'],orbitz.com
+2023-12-20 05:30:00,2023-12-21 04:35:00,618.32,"['Multiple airlines', 'Scandinavian Airlines 709 operated by Regional Jet']",2,83100,"['1h 45m in Stockholm (ARN)', '15h 45m in Warsaw (WAW)']",orbitz.com
+2023-12-20 05:30:00,2023-12-21 04:35:00,618.32,"['Multiple airlines', 'Scandinavian Airlines 709 operated by Regional Jet']",2,83100,"['16h 55m in Stockholm (ARN)', '35m in Warsaw (WAW)']",orbitz.com
+2023-12-20 07:40:00,2023-12-20 11:25:00,624.82,"['Finnair', 'Finnair 3303 operated by Turkish Airlines']",0,13500,[],orbitz.com
+2023-12-20 09:20:00,2023-12-21 02:50:00,646.62,"['Air Baltic', 'Air Baltic 7440 operated by Turkish Airlines']",1,63000,['13h 10m in Riga (RIX)'],orbitz.com
+2023-12-20 09:20:00,2023-12-21 11:30:00,646.62,"['Air Baltic', 'Air Baltic 7442 operated by Turkish Airlines']",1,94200,['21h 55m in Riga (RIX)'],orbitz.com
+2023-12-20 05:25:00,2023-12-20 14:50:00,664.12,"['Air Baltic', 'Air Baltic 7440 operated by Turkish Airlines']",1,33900,['5h 5m in Riga (RIX)'],orbitz.com
+2023-12-20 09:00:00,2023-12-20 14:50:00,679.12,"['Air Baltic', 'Air Baltic 7440 operated by Turkish Airlines']",1,21000,['1h 30m in Riga (RIX)'],orbitz.com
+2023-12-20 09:20:00,2023-12-21 02:45:00,697.76,['Air Baltic'],1,62700,['13h 20m in Riga (RIX)'],orbitz.com
+2023-12-20 01:40:00,2023-12-20 09:15:00,755.39,['Lufthansa'],1,27300,['2h 5m in Frankfurt (FRA)'],orbitz.com
